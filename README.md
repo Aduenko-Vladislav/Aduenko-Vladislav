@@ -8,7 +8,7 @@ I'm passionate about turning complex business requirements into intuitive and el
 
 ## 🛠 Tech Stack Highlights
 
-- **Frontend**: React, Next.js, Redux Toolkit, TypeScript, Tailwind CSS, MUI, Styled Components, Chakra UI 
+- **Frontend**: React, Next.js, Redux Toolkit, TypeScript, Lodash, Tailwind CSS, MUI, Styled Components, Chakra UI, Recharts
 - **Backend**: Node.js, Express, NestJS, REST API, WebSocket, RabbitMQ, Firebase  
 - **Databases**: PostgreSQL, MongoDB, Redis, MySQL, DynamoDB  
 - **Cloud & DevOps**: AWS (EC2, S3, Lambda), Docker, GitHub Actions, Firebase  
